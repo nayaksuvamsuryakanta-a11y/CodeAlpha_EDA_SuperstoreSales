@@ -1,4 +1,4 @@
-# 📊 [Project Title] — Exploratory Data Analysis
+# 📊 [Decoding with Python] — Exploratory Data Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange?logo=jupyter&logoColor=white)
