@@ -202,8 +202,8 @@ jupyter notebook notebooks/EDA.ipynb
 ## 👤 Author
 
 **Suvam**
-- LinkedIn: [your profile link]
-- GitHub: [@your-username](https://github.com/your-username)
+- LinkedIn: [https://www.linkedin.com/in/suvam-suryakanta-nayak-831657200/]
+- GitHub: [https://github.com/nayaksuvamsuryakanta-a11y]
 - Project video: [LinkedIn video link]
 
 ---
